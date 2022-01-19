@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Alumni+Sans&family=Cairo&family=Crete+Round&family=Glory&family=IBM+Plex+Sans+Arabic:wght@300&family=Inconsolata:wght@500&family=Jost&family=Kanit:wght@300&family=M+PLUS+1p:wght@500&family=Mukta:wght@300&family=PT+Sans+Narrow&family=Play&family=Rampart+One&family=Sarabun&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding: 0;
+  font-family: 'Play', sans-serif;
+};
+
+/* font-family: 'ABeeZee', sans-serif;
+font-family: 'Alumni Sans', sans-serif;
+font-family: 'Cairo', sans-serif;
+font-family: 'Crete Round', serif;
+font-family: 'Glory', sans-serif;
+font-family: 'IBM Plex Sans Arabic', sans-serif;
+font-family: 'Inconsolata', monospace;
+font-family: 'Jost', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'M PLUS 1p', sans-serif;
+font-family: 'Mukta', sans-serif;
+font-family: 'Play', sans-serif;
+font-family: 'PT Sans Narrow', sans-serif;
+font-family: 'Rampart One', cursive;
+font-family: 'Sarabun', sans-serif; */
